@@ -7,5 +7,3 @@ to model any sort of spreading mechanism that takes place by random process.
 
 There are three states: susceptible, infected, and recovered. These take on various 
 colors in the simulation. See comments in code for more details.
-
-C 2016, badpaca
